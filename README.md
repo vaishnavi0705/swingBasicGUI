@@ -11,7 +11,7 @@ The application was later enhanced to connect to a **remote database via a rever
 - **Language:** Java
 - **GUI Toolkit:** Swing (part of the standard JDK)
 - **Architecture:** MVC (Model-View-Controller)
-- **Database:** JDBC-based DB connection (confirm which DB — e.g. MySQL/PostgreSQL/SQLite — and note it here: `_____________`)
+- **Database:** JDBC-based DB connection (PostgreSQL)
 - **Remote DB access:** ngrok (reverse proxy / secure tunnel), enabling remote DB connectivity without exposing the DB directly
 - **Distribution:** Packaged and run as a standalone `.jar` file
 - **IDE used:** IntelliJ IDEA (`.idea/` config folder is present in the repo)
